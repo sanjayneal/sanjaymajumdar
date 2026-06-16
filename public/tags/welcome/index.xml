@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Welcome on Sanjay Majumdar</title>
+        <link>http://localhost:1313/tags/welcome/</link>
+        <description>Recent content in Welcome on Sanjay Majumdar</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Welcome to Sanjay Majumdar&#39;s Blog</title>
+            <link>http://localhost:1313/post/welcome/</link>
+            <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/post/welcome/</guid>
+            <description>&lt;p&gt;Welcome to &lt;strong&gt;sanjaymajumdar.com.np&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Here you will find:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📝 &lt;strong&gt;Blog&lt;/strong&gt; — Personal thoughts and articles&lt;/li&gt;&#xA;&lt;li&gt;🎥 &lt;strong&gt;Vlog&lt;/strong&gt; — Video content and reviews&lt;/li&gt;&#xA;&lt;li&gt;✈️ &lt;strong&gt;Travel&lt;/strong&gt; — My travel experiences across Nepal and beyond&lt;/li&gt;&#xA;&lt;li&gt;🎭 &lt;strong&gt;Entertainment&lt;/strong&gt; — Fun and entertainment content&lt;/li&gt;&#xA;&lt;li&gt;💻 &lt;strong&gt;Tech Tips&lt;/strong&gt; — Networking, Security, Firewall, Switching &amp;amp; Routing guides&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item></channel>
+</rss>

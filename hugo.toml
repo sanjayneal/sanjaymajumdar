@@ -1,0 +1,46 @@
+baseURL = "https://sanjaymajumdar.com.np/"
+languageCode = "en-us"
+title = "Sanjay Majumdar"
+theme = "stack"
+
+[params]
+  [params.author]
+    name = "Sanjay Majumdar"
+    bio = "Blogger | Traveler | IT Professional"
+
+[params.sidebar]
+  emoji = "🖥️"
+  subtitle = "Blog • Vlog • Travel • Entertainment • Tech Tips"
+
+[params.footer]
+  since = 2026
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/categories/blog"
+  weight = 2
+
+[[menu.main]]
+  name = "Travel"
+  url = "/categories/travel"
+  weight = 3
+
+[[menu.main]]
+  name = "Tech Tips"
+  url = "/categories/tech"
+  weight = 4
+
+[[menu.main]]
+  name = "Vlog"
+  url = "/categories/vlog"
+  weight = 5
+
+[[menu.main]]
+  name = "Entertainment"
+  url = "/categories/entertainment"
+  weight = 6
