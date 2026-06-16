@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "build": {
+    "command": "hugo",
+    "output_directory": "public",
+    "environment": {
+      "HUGO_VERSION": "0.163.2"
+    }
+  }
+}
