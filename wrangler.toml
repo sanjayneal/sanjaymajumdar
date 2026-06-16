@@ -1,8 +1,5 @@
 name = "sanjaymajumdar"
 compatibility_date = "2026-06-16"
 
-[vars]
-HUGO_VERSION = "0.163.2"
-
 [assets]
 directory = "public"
