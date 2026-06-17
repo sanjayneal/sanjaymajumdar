@@ -1,7 +1,15 @@
 baseURL = "https://sanjaymajumdar.com.np/"
 languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "Sanjay Majumdar"
 theme = "stack"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-US"
+    locale = "en_US"
+    weight = 1
 
 [params]
   [params.author]
