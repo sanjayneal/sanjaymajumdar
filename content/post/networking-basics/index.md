@@ -5,6 +5,7 @@ draft: false
 categories: ["Tech Tips"]
 tags: ["Networking", "IT", "Switching", "Routing"]
 description: "Learn the basics of computer networking including switching and routing."
+showComments: true
 ---
 
 ## What is a Network?

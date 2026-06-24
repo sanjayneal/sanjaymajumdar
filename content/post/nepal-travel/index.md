@@ -5,6 +5,7 @@ draft: false
 categories: ["Travel"]
 tags: ["Nepal", "Travel", "Adventure"]
 description: "Discovering the hidden gems of Nepal."
+showComments: true
 ---
 
 ## Nepal — The Land of Himalayas

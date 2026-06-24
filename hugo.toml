@@ -1,27 +1,48 @@
 baseURL = "https://sanjaymajumdar.com.np/"
-languageCode = "en-us"
-defaultContentLanguage = "en"
 title = "Sanjay Majumdar"
-theme = "stack"
+theme = "blowfish"
+locale = "en-us"
+pluralizeListTitles = false
 
-[languages]
-  [languages.en]
-    languageName = "English"
-    languageCode = "en-US"
-    locale = "en_US"
-    weight = 1
+[outputs]
+home = ["HTML", "JSON"]
 
 [params]
-  [params.author]
-    name = "Sanjay Majumdar"
-    bio = "Blogger | Traveler | IT Professional"
+  description = "Blog • Vlog • Travel • Entertainment • Tech Tips"
 
-[params.sidebar]
-  emoji = "🖥️"
-  subtitle = "Blog • Vlog • Travel • Entertainment • Tech Tips"
+[params.author]
+  name = "Sanjay Majumdar"
+  headline = "Blogger | Traveler | IT Professional"
+  bio = "Welcome to my blog about technology, travel, and entertainment"
 
-[params.footer]
-  since = 2026
+[params.homepage]
+  layout = "hybrid"
+  showRecent = true
+  showRecentItems = 10
+
+[params.article]
+  showDate = true
+  showDateUpdated = true
+  showBreadcrumbs = true
+  showTableOfContents = true
+  showTaxonomies = true
+
+[params.comments]
+  enabled = true
+  provider = "giscus"
+
+[params.comments.giscus]
+  repo = "sanjayneal/sanjaymajumdar"
+  repoId = "R_kgDOS8hGKA"
+  category = "Announcements"
+  categoryId = "DIC_kwDOS8hGKM4C_zn0"
+  mapping = "pathname"
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = "dark"
+  lang = "en"
 
 [[menu.main]]
   name = "Home"
@@ -30,25 +51,25 @@ theme = "stack"
 
 [[menu.main]]
   name = "Blog"
-  url = "/categories/blog"
+  url = "/categories/blog/"
   weight = 2
 
 [[menu.main]]
-  name = "Travel"
-  url = "/categories/travel"
+  name = "Tech Tips"
+  url = "/categories/tech-tips/"
   weight = 3
 
 [[menu.main]]
-  name = "Tech Tips"
-  url = "/categories/tech"
+  name = "Travel"
+  url = "/categories/travel/"
   weight = 4
 
 [[menu.main]]
-  name = "Vlog"
-  url = "/categories/vlog"
+  name = "Entertainment"
+  url = "/categories/entertainment/"
   weight = 5
 
 [[menu.main]]
-  name = "Entertainment"
-  url = "/categories/entertainment"
+  name = "Vlog"
+  url = "/categories/vlog/"
   weight = 6
